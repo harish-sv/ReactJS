@@ -1,0 +1,24 @@
+{
+  "name": "reactcrud",
+  "version": "1.0.0",
+  "description": "reactCrud",
+  "main": "server.js",
+  "scripts": {
+    "test": "react"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Harish",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^4.13.14",
+    "morgan": "^1.9.0"
+  }
+}
